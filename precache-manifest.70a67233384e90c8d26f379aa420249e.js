@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "871cd0009d7c97aaf5ae36503249e726",
+    "revision": "9765bd3776fad7c26b91d6c16003f5ce",
     "url": "/iamalfanoangelo/index.html"
   },
   {
-    "revision": "6b70f05c0d582acec0d1",
+    "revision": "016fa76c5fad63053fea",
     "url": "/iamalfanoangelo/static/css/2.22a7d4ef.chunk.css"
   },
   {
-    "revision": "cc1d2dbdcda5b59f036f",
-    "url": "/iamalfanoangelo/static/css/main.dabf7749.chunk.css"
+    "revision": "a0d3beeeb78bb96b885c",
+    "url": "/iamalfanoangelo/static/css/main.4b605bc4.chunk.css"
   },
   {
-    "revision": "6b70f05c0d582acec0d1",
-    "url": "/iamalfanoangelo/static/js/2.a2335c47.chunk.js"
+    "revision": "016fa76c5fad63053fea",
+    "url": "/iamalfanoangelo/static/js/2.34673e91.chunk.js"
   },
   {
-    "revision": "cc1d2dbdcda5b59f036f",
-    "url": "/iamalfanoangelo/static/js/main.140b2d11.chunk.js"
+    "revision": "a0d3beeeb78bb96b885c",
+    "url": "/iamalfanoangelo/static/js/main.45366d2c.chunk.js"
   },
   {
     "revision": "6df0e650b8b86ede0ee5",
