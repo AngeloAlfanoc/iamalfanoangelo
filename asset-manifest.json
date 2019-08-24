@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/iamalfanoangelo/static/css/main.a8450074.chunk.css",
+    "main.js": "/iamalfanoangelo/static/js/main.a8d9917a.chunk.js",
+    "main.js.map": "/iamalfanoangelo/static/js/main.a8d9917a.chunk.js.map",
+    "runtime~main.js": "/iamalfanoangelo/static/js/runtime~main.ba1ddc9b.js",
+    "runtime~main.js.map": "/iamalfanoangelo/static/js/runtime~main.ba1ddc9b.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/iamalfanoangelo/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.b4efcd45.chunk.js": "/iamalfanoangelo/static/js/2.b4efcd45.chunk.js",
+    "static/js/2.b4efcd45.chunk.js.map": "/iamalfanoangelo/static/js/2.b4efcd45.chunk.js.map",
+    "index.html": "/iamalfanoangelo/index.html",
+    "precache-manifest.c89f83cc97e80e71342bdf9b42837e24.js": "/iamalfanoangelo/precache-manifest.c89f83cc97e80e71342bdf9b42837e24.js",
+    "service-worker.js": "/iamalfanoangelo/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/iamalfanoangelo/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.a8450074.chunk.css.map": "/iamalfanoangelo/static/css/main.a8450074.chunk.css.map",
+    "static/media/animaldetective.PNG": "/iamalfanoangelo/static/media/animaldetective.d1b128f1.PNG",
+    "static/media/faceithavewemet.PNG": "/iamalfanoangelo/static/media/faceithavewemet.730100f2.PNG",
+    "static/media/index.css": "/iamalfanoangelo/static/media/memphis-mini-dark.b9da2244.png"
+  }
+}
