@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d558251eac70cc327948ec410657abd",
+    "revision": "970659f071c1d855d05911cbdb9b1086",
     "url": "/iamalfanoangelo/index.html"
   },
   {
-    "revision": "016fa76c5fad63053fea",
+    "revision": "4774a9940a974018f733",
     "url": "/iamalfanoangelo/static/css/2.22a7d4ef.chunk.css"
   },
   {
-    "revision": "7c7a15caba340ff35148",
-    "url": "/iamalfanoangelo/static/css/main.038bb5a4.chunk.css"
+    "revision": "708b86087049daeaf6de",
+    "url": "/iamalfanoangelo/static/css/main.f2e9e4d1.chunk.css"
   },
   {
-    "revision": "016fa76c5fad63053fea",
-    "url": "/iamalfanoangelo/static/js/2.34673e91.chunk.js"
+    "revision": "4774a9940a974018f733",
+    "url": "/iamalfanoangelo/static/js/2.9cf94e92.chunk.js"
   },
   {
-    "revision": "7c7a15caba340ff35148",
-    "url": "/iamalfanoangelo/static/js/main.6c47a23c.chunk.js"
+    "revision": "708b86087049daeaf6de",
+    "url": "/iamalfanoangelo/static/js/main.241338c1.chunk.js"
   },
   {
     "revision": "6df0e650b8b86ede0ee5",
     "url": "/iamalfanoangelo/static/js/runtime~main.ba1ddc9b.js"
+  },
+  {
+    "revision": "ef475a6db25684b8bb507cc07f670bf6",
+    "url": "/iamalfanoangelo/static/media/LOWNO.ef475a6d.PNG"
   },
   {
     "revision": "d1b128f1172fba7baab9ac1c08f20dcc",
