@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/iamalfanoangelo/static/css/main.34e9ea15.chunk.css",
+    "main.css": "/iamalfanoangelo/static/css/main.31f2fabc.chunk.css",
     "main.js": "/iamalfanoangelo/static/js/main.45b60cfe.chunk.js",
     "main.js.map": "/iamalfanoangelo/static/js/main.45b60cfe.chunk.js.map",
     "runtime~main.js": "/iamalfanoangelo/static/js/runtime~main.ba1ddc9b.js",
@@ -9,10 +9,10 @@
     "static/js/2.c1519f9e.chunk.js": "/iamalfanoangelo/static/js/2.c1519f9e.chunk.js",
     "static/js/2.c1519f9e.chunk.js.map": "/iamalfanoangelo/static/js/2.c1519f9e.chunk.js.map",
     "index.html": "/iamalfanoangelo/index.html",
-    "precache-manifest.097110db542c795360d580800ed30086.js": "/iamalfanoangelo/precache-manifest.097110db542c795360d580800ed30086.js",
+    "precache-manifest.85e7c2aa8ba2159867ee1134845d3111.js": "/iamalfanoangelo/precache-manifest.85e7c2aa8ba2159867ee1134845d3111.js",
     "service-worker.js": "/iamalfanoangelo/service-worker.js",
     "static/css/2.22a7d4ef.chunk.css.map": "/iamalfanoangelo/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.34e9ea15.chunk.css.map": "/iamalfanoangelo/static/css/main.34e9ea15.chunk.css.map",
+    "static/css/main.31f2fabc.chunk.css.map": "/iamalfanoangelo/static/css/main.31f2fabc.chunk.css.map",
     "static/media/LOWNO.PNG": "/iamalfanoangelo/static/media/LOWNO.ef475a6d.PNG",
     "static/media/animaldetective.PNG": "/iamalfanoangelo/static/media/animaldetective.d1b128f1.PNG",
     "static/media/faceithavewemet.PNG": "/iamalfanoangelo/static/media/faceithavewemet.730100f2.PNG",
